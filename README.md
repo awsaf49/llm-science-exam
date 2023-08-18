@@ -1,7 +1,8 @@
 # Kaggle - LLM Science Exam
 > Use LLMs to answer difficult science questions
 
-<img src="https://www.kaggle.com/competitions/54662/images/header">
+<img src="https://github.com/awsaf49/llm-science-exam/assets/36858976/ffc86657-8a3f-4b7b-8e09-a9d0841fbf2a">
+
 
 
 ## Background
